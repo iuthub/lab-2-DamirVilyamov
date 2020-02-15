@@ -1,0 +1,17 @@
+body{
+    background-color:#283043;
+    color: #dedbe6;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    color: #141213;
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #c42034;
+}
+
+img{
+    height: 250px;
+    width: 250px;
+}
