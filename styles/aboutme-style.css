@@ -5,6 +5,7 @@ body{
 }
 a{
     color: #141213;
+    text-decoration: none;
 }
 h3{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -15,3 +16,7 @@ img{
     height: 250px;
     width: 250px;
 }
+p#dropcap:first-letter {
+    font-size:150%;
+    
+  }
